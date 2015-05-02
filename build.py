@@ -116,8 +116,6 @@ for l in list:
 code = """
 	FILE *fp;
 
-	strcpy(ps.pstr1, pstr1);
-
 	fp = fopen("./sotemp.c", "w");
 	fprintf(fp, __eval_fmt, eval);
 	fclose(fp);
