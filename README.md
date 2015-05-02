@@ -1,5 +1,7 @@
 ###Eval C-code Function
 
+> python build.py sample.
+
 * * *  
 Require Ubuntu 14.04
 
