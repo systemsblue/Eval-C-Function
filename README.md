@@ -1,7 +1,7 @@
 ###Eval C-code Function
 
 ```
- python build.py sample.
+ python build.py sample.c
 ```
 
 Require Ubuntu 14.04
